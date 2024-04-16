@@ -44,7 +44,7 @@ namespace st10066249_POE_Part1
                     Console.WriteLine($"{stepNumber}. {step.Description}");
                     stepNumber++;
                 }
-            }
+            } // display all the steps for the method
 
             public void ScaleRecipe(double factor)
             {

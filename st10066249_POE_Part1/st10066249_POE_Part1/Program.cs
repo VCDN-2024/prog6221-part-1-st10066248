@@ -6,8 +6,8 @@
         {
             Recipe recipe = new Recipe();
             Console.ForegroundColor
-           = ConsoleColor.Blue;
-            Console.WriteLine("Enter the details for the recipe:");
+           = ConsoleColor.Blue; // foreground colour changed
+            Console.WriteLine("Enter the details for the recipe:"); 
 
             // Try-Catch for number of ingredients
             try
@@ -54,7 +54,7 @@
             Console.WriteLine("Enter a scaling factor (0.5, 2, or 3):");
             double factor = double.Parse(Console.ReadLine());
             recipe.ScaleRecipe(factor);
-            recipe.DisplayRecipe();
+            recipe.DisplayRecipe(); // factor scaled
 
             Console.WriteLine("Do you want to reset quantities to original values? (y/n)");
             if (Console.ReadLine().ToLower() == "y")
