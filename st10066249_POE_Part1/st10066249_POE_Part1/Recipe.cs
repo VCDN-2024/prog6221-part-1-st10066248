@@ -52,14 +52,14 @@ namespace st10066249_POE_Part1
                 {
                     ingredient.Quantity *= factor;
                 }
-            }
+            } // looping through to change the scale 
 
             public void ResetQuantities(double factor)
             {
                 foreach (var ingredient in Ingredients)
                 {
                     ingredient.Quantity /= factor;
-                }
+                } // looping through to change back to the orginal
             }
 
             public void ClearRecipe()
