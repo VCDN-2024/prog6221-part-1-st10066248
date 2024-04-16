@@ -1,0 +1,14 @@
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\bin\Debug\net8.0\st10066249_POE_Part1.exe
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\bin\Debug\net8.0\st10066249_POE_Part1.deps.json
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\bin\Debug\net8.0\st10066249_POE_Part1.runtimeconfig.json
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\bin\Debug\net8.0\st10066249_POE_Part1.dll
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\bin\Debug\net8.0\st10066249_POE_Part1.pdb
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.AssemblyInfo.cs
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.dll
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\refint\st10066249_POE_Part1.dll
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.pdb
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\st10066249_POE_Part1.genruntimeconfig.cache
+C:\Users\ameer\source\repos\st10066249_POE_Part1\st10066249_POE_Part1\obj\Debug\net8.0\ref\st10066249_POE_Part1.dll
