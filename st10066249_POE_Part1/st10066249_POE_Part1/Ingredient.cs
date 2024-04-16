@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace st10066249_POE_Part1
 {
-    internal class Ingredient
-    {
-        internal class Ingredient
+   
+         class Ingredient
         {
             public string Name { get; set; }
             public double Quantity { get; set; }
             public string Unit { get; set; }
         }
-    }
+    
 }
